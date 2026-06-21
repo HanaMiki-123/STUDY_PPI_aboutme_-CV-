@@ -17,9 +17,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const langBtn = document.getElementById("lang-btn");
     const langText = document.getElementById("lang-text");
+    
     let currentLang = 'en';
-
-    // Language toggle function
     langBtn.addEventListener("click", () => {
         if (currentLang === 'en') {
             currentLang = 'km';
@@ -34,11 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function loadLanguage(lang) {
         const jsonFile = lang === 'en' ? "./src/json/index.json" : "./src/json/index_km.json";
 
-        // Set the html lang attribute so CSS :lang(km) rules
-        // (custom Khmer font) apply automatically
         document.documentElement.setAttribute("lang", lang);
-
-        // Show loading state
         document.getElementById("cv-wrapper").innerHTML = "<div class='loading-spinner'>Loading CV...</div>";
 
         fetch(jsonFile)
@@ -51,8 +46,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 document.getElementById("cv-wrapper").innerHTML = "<p style='text-align:center;'>Error loading CV data. Please try again.</p>";
             });
     }
-
-    // Initial load
     loadLanguage(currentLang);
 });
 
