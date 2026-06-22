@@ -1,0 +1,207 @@
+{
+  "header": {
+    "name": "ហាក់ យ៉ុងហ្អោវ",
+    "address": "ខណ្ឌពោធិ៍សែនជ័យ, រាជធានីភ្នំពេញ, កម្ពុជា",
+    "phone": "(855-011) 284 645",
+    "phoneLink": "+85511284645",
+    "avatar": "https://hakyonghouv-cv.vercel.app/src/image/profile.png"
+  },
+  "personalData": {
+    "title": "ព័ត៌មានផ្ទាល់ខ្លួន",
+    "icon": "ti-user",
+    "iconColor": "#2563a8",
+    "iconBg": "#dbeafe",
+    "details": [
+      {
+        "label": "សញ្ជាតិ",
+        "value": "ខ្មែរ",
+        "icon": "ti-flag"
+      },
+      {
+        "label": "ថ្ងៃខែឆ្នាំកំណើត",
+        "value": "១៤ ឧសភា ២០០៩",
+        "icon": "ti-cake"
+      },
+      {
+        "label": "ទីកន្លែងកំណើត",
+        "value": "ខេត្តកំពង់ចាម",
+        "icon": "ti-map-pin"
+      },
+      {
+        "label": "ភេទ",
+        "value": "ប្រុស",
+        "icon": "ti-gender-male"
+      },
+      {
+        "label": "ស្ថានភាពគ្រួសារ",
+        "value": "នៅលីវ",
+        "icon": "ti-heart"
+      }
+    ]
+  },
+  "education": {
+    "title": "ការអប់រំ",
+    "icon": "ti-school",
+    "iconColor": "#166534",
+    "iconBg": "#dcfce7",
+    "items": [
+      {
+        "school": "វិទ្យាស្ថានពហុបច្ចេកទេសព្រះកុសុមៈ",
+        "period": "និស្សិតឆ្នាំទី១ · ២០២៥ – បច្ចុប្បន្ន"
+      },
+      {
+        "school": "វិទ្យាល័យហ៊ុនសែនកំពង់ចាម",
+        "period": "២០២០ – ២០២៥"
+      },
+      {
+        "school": "សាលាបឋមសិក្សាអនុវត្តន៍",
+        "period": "២០១៧ – ២០១៩"
+      },
+      {
+        "school": "សាលាបឋមសិក្សាបឹងកុក",
+        "period": "២០១៣ – ២០១៦"
+      }
+    ]
+  },
+  "languages": {
+    "title": "ភាសា",
+    "icon": "ti-language",
+    "iconColor": "#92400e",
+    "iconBg": "#fef9c3",
+    "items": [
+      {
+        "name": "ខ្មែរ",
+        "level": "ភាសាដើម",
+        "percentage": 100,
+        "delay": "0.3s"
+      },
+      {
+        "name": "អង់គ្លេស",
+        "level": "មូលដ្ឋាន",
+        "percentage": 35,
+        "delay": "0.5s"
+      },
+      {
+        "name": "ចិន",
+        "level": "មូលដ្ឋាន",
+        "percentage": 25,
+        "delay": "0.7s"
+      }
+    ]
+  },
+  "professionalSkills": {
+    "title": "ជំនាញវិជ្ជាជីវៈ",
+    "icon": "ti-tool",
+    "iconColor": "#5b21b6",
+    "iconBg": "#ede9fe",
+    "description": "មិនទាន់មាននៅពេលនេះទេ - បច្ចុប្បន្នកំពុងកសាងជំនាញតាមរយៈការសិក្សា និងគម្រោងផ្ទាល់ខ្លួន។"
+  },
+  "workExperience": {
+    "title": "បទពិសោធន៍ការងារ",
+    "icon": "ti-briefcase",
+    "iconColor": "#9f1239",
+    "iconBg": "#ffe4e6",
+    "description": "មិនទាន់មានបទពិសោធន៍ការងារនៅឡើយទេ - ទន្ទឹងរង់ចាំទទួលបានឱកាសក្នុងការងារជាក់ស្តែង។"
+  },
+  "hobbies": {
+    "title": "ចំណង់ចំណូលចិត្ត",
+    "icon": "ti-device-laptop",
+    "iconColor": "#2563a8",
+    "iconBg": "#dbeafe",
+    "items": [
+      {
+        "text": "ការអភិវឌ្ឍន៍ផ្នែកខាងមុខ (Frontend) ដោយប្រើ HTML, CSS, JavaScript និង React",
+        "icon": "ti-brand-html5"
+      },
+      {
+        "text": "ការបង្កើតគេហទំព័រទំនើប ឆ្លើយតបលឿន និងផ្តោតខ្លាំងលើបទពិសោធន៍អ្នកប្រើប្រាស់",
+        "icon": "ti-layout"
+      },
+      {
+        "text": "ការរចនា UI/UX, ចលនា, និងចំណុចប្រទាក់ដែលស្អាតនិងសាមញ្ញ",
+        "icon": "ti-palette"
+      },
+      {
+        "text": "ការពង្រឹងជំនាញលើ React, Node.js, Python, C++, HTML/CSS",
+        "icon": "ti-refresh"
+      },
+      {
+        "text": "ការស្វែងរកគំនិតថ្មីៗ និងទទួលបានចំណេះដឹងថ្មីៗជាប្រចាំ",
+        "icon": "ti-bulb"
+      }
+    ],
+    "badges": [
+      {
+        "text": "React",
+        "colorClass": "badge-blue"
+      },
+      {
+        "text": "Node.js",
+        "colorClass": "badge-blue"
+      },
+      {
+        "text": "Python",
+        "colorClass": "badge-blue"
+      },
+      {
+        "text": "C++",
+        "colorClass": "badge-blue"
+      },
+      {
+        "text": "HTML / CSS",
+        "colorClass": "badge-green"
+      },
+      {
+        "text": "JavaScript",
+        "colorClass": "badge-green"
+      },
+      {
+        "text": "UI / UX",
+        "colorClass": "badge-amber"
+      }
+    ],
+    "goal": "ក្លាយជាអ្នកអភិវឌ្ឍន៍ Frontend, Full Stack, ឬអ្នករចនា UI - បង្កើតគម្រោងដែលមានគុណភាពខ្ពស់ និងដោះស្រាយបញ្ហាជាក់ស្តែងដោយប្រើប្រាស់បច្ចេកវិទ្យា។"
+  },
+  "reference": {
+    "title": "ឯកសារយោង",
+    "icon": "ti-address-book",
+    "iconColor": "#166534",
+    "iconBg": "#f0fdf4",
+    "cards": [
+      {
+        "initials": "https://boeungkok.vercel.app/assets/image-logo-Da42sGnl.jpg",
+        "name": "លោកគ្រូ ហ៊ង ច័ន្ទធា",
+        "position": "នាយកសាលាបឋមសិក្សាបឹងកុក",
+        "mapLink": "https://maps.app.goo.gl/AjFQMkbQzuvavFQY8",
+        "phone": "011 235 557",
+        "phoneLink": "+85511235557",
+        "email": "horngchanthea9@gmail.com"
+      }
+    ]
+  },
+  "footer": {
+    "socials": [
+      {
+        "link": "https://www.facebook.com/houv.yong.hak",
+        "icon": "fa-brands fa-facebook",
+        "title": "Facebook"
+      },
+      {
+        "link": "https://t.me/boyboy_2",
+        "icon": "fa-brands fa-telegram",
+        "title": "Telegram"
+      },
+      {
+        "link": "https://github.com/Hacker122-qpwi",
+        "icon": "fa-brands fa-github",
+        "title": "Git"
+      },
+      {
+        "link": "https://www.houv.online",
+        "icon": "fa-solid fa-globe",
+        "title": "website"
+      }
+    ],
+    "copyright": "© ២០២៦ ហាក់ យ៉ុងហ្អោវ រក្សាសិទ្ធិគ្រប់យ៉ាង។"
+  }
+}
